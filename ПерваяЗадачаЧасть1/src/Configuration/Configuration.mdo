@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="eea1217c-c773-4876-b6e1-b24c4a3020ee">
+  <name>ПерваяЗадачаЧасть1</name>
+  <synonym>
+    <key>ru</key>
+    <value>Первая задача часть1</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="c31ce641-19f3-4d93-b35a-5e4f284c4851"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="bd6a436b-b14e-4757-b701-f24ba4ae7a79"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="d02bb197-d9b1-456a-833b-1b7ab6360efe"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="bb462891-57da-4940-8c8f-7f6fb7941566"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="668679df-0533-4aa1-b8ac-2439564d7246"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="73faba8b-20c7-495c-868a-48b88eb5b2ac"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="72093497-d3bd-49b3-881b-73294490e891"/>
+  <configurationExtensionCompatibilityMode>8.3.21</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.21</compatibilityMode>
+  <languages uuid="e3dd9c82-bd49-4536-aea3-e9809d1e79a4">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+</mdclass:Configuration>
