@@ -39,4 +39,14 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.КлиентРаботаСДокументами</commonModules>
+  <commonModules>CommonModule.СерверРаботаСДокументами</commonModules>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Организации</catalogs>
+  <catalogs>Catalog.Склад</catalogs>
+  <documents>Document.ПоступлениеТоваров</documents>
+  <documents>Document.РасходТоваров</documents>
+  <informationRegisters>InformationRegister.Цена</informationRegisters>
+  <accumulationRegisters>AccumulationRegister.ОстаткиНоменклатуры</accumulationRegisters>
 </mdclass:Configuration>

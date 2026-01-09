@@ -1,2 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cmi:CommandInterface xmlns:cmi="http://g5.1c.ru/v8/dt/cmi"/>
+<cmi:CommandInterface xmlns:cmi="http://g5.1c.ru/v8/dt/cmi">
+  <commandsVisibility>
+    <visibilityFragments>
+      <command>AccumulationRegister.ОстаткиНоменклатуры.StandardCommand.OpenList</command>
+      <visible>
+        <common>true</common>
+      </visible>
+    </visibilityFragments>
+  </commandsVisibility>
+  <commandsOrder>
+    <orderFragments>
+      <group>NavigationPanelOrdinary</group>
+      <commands>Catalog.Контрагенты.StandardCommand.OpenList</commands>
+      <commands>Catalog.Организации.StandardCommand.OpenList</commands>
+      <commands>Catalog.Номенклатура.StandardCommand.OpenList</commands>
+      <commands>Catalog.Склад.StandardCommand.OpenList</commands>
+      <commands>Document.ПоступлениеТоваров.StandardCommand.OpenList</commands>
+      <commands>Document.РасходТоваров.StandardCommand.OpenList</commands>
+      <commands>InformationRegister.Цена.StandardCommand.OpenList</commands>
+    </orderFragments>
+  </commandsOrder>
+</cmi:CommandInterface>
